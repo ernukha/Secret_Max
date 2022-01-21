@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Chicle&display=swap");
+html{
+    background: url("https://static.jojowiki.com/images/8/88/latest/20191015215454/Yes%21_yes%21_yes%21_yes%21_yes%21.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Tormoz{
+    outline: none;
+    margin-top: 0;
+    height:140px;
+    background-image: url("../Revmx.jpg");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    padding: 100px 400px 500px 400px;
+}
+ul{
+    border-color: black;
+    background-color: aqua;
+    margin:0 50% 0 40%;
+    border-radius: 20px;
+    font-family: "Comic Sans MS";
+    text-shadow: 2px 2px 5px red;
+    font-size:20px;
+}
+#MX{
+    font-family: "Chicle";
+    text-align: center;
+    color: darkorchid;
+    text-shadow: 2px 2px 5px darkslategray;
+    font-size: 100px;
+}
+.Argue{
+    margin-top:-500px;
+    margin-left: 555px;
+    font-size:50px;
+    font-family: Verdana;
+
+    color: cyan;
+    text-shadow: 5px 5px darkorchid;
+}

@@ -1,0 +1,16 @@
+.container{
+    display: grid;
+    grid-template-columns:repeat(auto-fill , 1fr);
+    grid-gap: 5px;
+    grid-auto-rows: 50px 50px;
+    border-top:1px solid black;
+    border-left:1px solid black;
+    background-repeat: inherit;
+    background-position: right,top;
+}
+.container > div{
+    padding:15px;
+    text-align: center;
+    border-bottom:1px solid black;
+    border-right:1px solid black;
+}

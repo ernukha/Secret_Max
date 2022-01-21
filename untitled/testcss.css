@@ -1,0 +1,56 @@
+header{
+    width: 100%;
+    background-color: white;
+    height: 50px;
+    position: fixed;
+    font-family: Cambria;
+
+    left: 0;
+    top: 0;
+    right: 0;
+}
+.flex-container
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.Img{
+    height:50px;
+}
+.specialities{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    justify-items: center;
+}
+.Cybersec{
+    color: black;
+    margin-left: 10px;
+}
+head{
+
+}
+.Hmbutton{
+    height: 45px;
+    margin-left: 150px;
+
+}
+body{
+    width: 100%;
+    margin-left: 0;
+    margin-top: 0;
+    background: url(https://www.alem-edu.kz/wp-content/uploads/2020/05/1568089150-09.jpeg) no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.footer{
+    width:100%;
+    background-color: #222;
+    padding: 60px 0px;
+    padding-top: 18px;
+}
+.Homepage{
+    background-color: rgb(34, 34, 34, 80);
+}

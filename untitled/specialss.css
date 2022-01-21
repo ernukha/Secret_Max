@@ -1,0 +1,32 @@
+header{
+    width: 1536px;
+    background: white;
+    height: 50px;
+    margin-top:-8px;
+    margin-left: -8px;
+    position: fixed;
+}
+body{
+    background: url(https://www.alem-edu.kz/wp-content/uploads/2020/05/1568089150-09.jpeg) no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+.Hmbutton{
+    height: 45px;
+    margin-left: 150px;
+}
+
+.table{
+    height: 40px;
+    background-color: rgba(47, 79, 79, 0.0);
+}
+.table2{
+    display: flex;
+    color:white;
+    justify-content: center;
+    font-size: 100px;
+    height:1000px;
+    width: 1315px;
+    background-color: rgba(47, 79, 79, 0.8);
+    align-items: flex-start;
+}
